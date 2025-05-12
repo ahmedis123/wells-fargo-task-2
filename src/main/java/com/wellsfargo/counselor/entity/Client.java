@@ -1,4 +1,4 @@
-package com.example.yourproject.entities;
+package com.wellsfargo.softwareengineering.entities;
 
 import jakarta.persistence.*;
 import java.time.LocalDate;
